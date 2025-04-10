@@ -62,7 +62,7 @@ API Used: https://alquran.cloud/api
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/SaqibMobeen)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Saqib-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/SaqibMobeen)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
